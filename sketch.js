@@ -39,7 +39,7 @@ function geraRecomendacao(idade, gostaDeFantasia, gostaDeAventura) {
         if (gostaDeFantasia) {
           return "Shield Of Hero";
         } else {
-          return "One Punch-Man";
+          return "One-Punch Man";
         }
       }
     }
